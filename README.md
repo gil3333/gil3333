@@ -58,7 +58,8 @@ Growing into **AI & systems-level engineering**
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![Gi]()
+[![GitHub](https://img.shields.io/badge/GitHub-gil3333-black?logo=github)](https://github.com/gil3333)
+
 
 
 <!--
