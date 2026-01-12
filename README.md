@@ -1,9 +1,14 @@
-👋 Hi, I'm Gil Harary
-Software Engineer | Full-Stack Developer | CS @ Holon Institute of Technology
+# 👋 Hi, I'm Gil Harary
 
-I’m a software engineer with a strong foundation in computer science fundamentals and hands-on experience building production-style full-stack applications. I enjoy working end-to-end — from system design and backend APIs to clean, scalable frontend UIs.
+**Software Engineer | Full-Stack Developer | CS @ Holon Institute of Technology**
 
-Currently focused on Growing into AI & systems-level engineering
+I’m a software engineer with a strong foundation in computer science fundamentals and hands-on experience building production-style full-stack applications.  
+I enjoy working end-to-end — from system design and backend APIs to clean, scalable frontend UIs.
+
+---
+
+### 🚀 Current Focus
+Growing into **AI & systems-level engineering**
 
 <!--
 **gil3333/gil3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
